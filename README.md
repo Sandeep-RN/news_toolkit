@@ -9,9 +9,9 @@ This template aims to **significantly reduce the development time for typical ne
 
 The Flutter News Toolkit:
 
-- Contains common news app UI workflows and core features built with Flutter and Firebase
-- Implements best practices for news apps based on [Google News Initiative research](https://newsinitiative.withgoogle.com/info/assets/static/docs/nci/nci-playbook-en.pdf)
-- Allows publishers to monetize immediately with ads and subscription services
+- Contains common news app UI workflows and core features built with Flutter and Firebase.
+- Implements best practices for news apps based on [Google News Initiative research](https://newsinitiative.withgoogle.com/info/assets/static/docs/nci/nci-playbook-en.pdf).
+- Allows publishers to monetize immediately with ads and subscription services.
 
 Common services such as authentication, notifications, analytics, and ads have been implemented using [Firebase](https://firebase.flutter.dev/docs/overview/) and [Google Mobile Ads](https://pub.dev/packages/google_mobile_ads). Developers are free to substitute these services and can find publicly available packages on [pub.dev](https://pub.dev).
 
